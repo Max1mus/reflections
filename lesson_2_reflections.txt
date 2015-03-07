@@ -1,5 +1,1 @@
--What happens when you initialize a repository? Why do you need to do it?
-To let git know that it is a repositary and to start keeping track of files
-
--How is the staging area different from the working directory and the repository? What value do you think it offers?
-files in the staging area are already ready to be committed, when you add a file to the staging area you are positive that it is working. it lets you add files to the commit as you go, rather than keeping a list in your head.
+this is l2 reflections
